@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668326489875",
+    "project_id": "flashchat-cb44e",
+    "storage_bucket": "flashchat-cb44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668326489875:android:e8474344d1c612d939f4e6",
+        "android_client_info": {
+          "package_name": "co.ruhika.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668326489875-gsaeqdcb4d5v6mf9nm7ubd56v6kpfuda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6b-vz1kHfwcB8VZ5PTwZ_AR09FGKo_jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668326489875-gsaeqdcb4d5v6mf9nm7ubd56v6kpfuda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
